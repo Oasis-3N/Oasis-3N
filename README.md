@@ -7,22 +7,22 @@
 
 기존의 당근마켓 서비스와 비슷한 서비스로, 적용 범위를 아파트 단위, 그리고 거래 물품을 신선식품과 배달식품으로 하여 이웃들과의 식품 거래 등을 활성화 하기 위한 서비스를 개발하였다.
 
+### [Presentation PPT](https://presentation.oasis2021-3n.com)
 
-
-### [Frontend Application](https://github.com/BranKein/Banhada_3N_Oasis_Hackathon_2021/tree/main/Android%20Application)
+### [Frontend Application](https://github.com/Oasis-3N/Banhada-FE-Android)
 
 * 김연혁 작업
 * 사용자가 사용할 어플리케이션.
 * 당시 안드로이드용 어플리케이션만 개발하였으며 미완성.
 * Android Studio, Java, XML 사용
 
-### [Application Design](https://github.com/BranKein/Banhada_3N_Oasis_Hackathon_2021/tree/main/Application%20Design)
+### [Application Design](https://www.oasis2021-3n.com)
 
 * 정현진 작업
 * Android Application을 위한 디자인
 * Xd 사용
 
-### [Backend Server](https://github.com/BranKein/Banhada_3N_Oasis_Hackathon_2021/tree/main/Flask-Base%20Backend%20Server)
+### [Backend Server](https://github.com/Oasis-3N/Banhada-BE)
 
 * 김연혁 작업
 * 반하다 서비스를 위한 Restful 백엔드 서버.
